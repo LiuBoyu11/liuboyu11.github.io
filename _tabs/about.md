@@ -1,8 +1,8 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
+layout: page
+title: About Me
+icon: fas fa-user
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I am Liu Boyu, a graphics and XR engineer @Bytedance, base Shangahi.
